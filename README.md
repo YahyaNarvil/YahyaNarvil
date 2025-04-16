@@ -45,10 +45,6 @@ As a **Senior Infrastructure Consultant at German UDS**, I help organizations **
 - Provided Level 1/2 support for devices, software, and remote tools.  
 - Configured Outlook, domain joins, system recovery and patching.
 
-**🧑‍🏫 Computer Lab Teacher**  
-*CBM Pvt Ltd · Jun 2015 – Jul 2016*  
-- Taught system fundamentals and led academic tech projects.
-
 ---
 
 ### 🛠️ Technical Strengths
@@ -76,10 +72,13 @@ As a **Senior Infrastructure Consultant at German UDS**, I help organizations **
 
 ### 🎓 Education
 
-📘 Currently pursuing:  
-**Master of Computer Applications (MCA)**  
-*Computer Software Engineering*  
-**Yashwantrao Chavan Maharashtra Open University**
+**🎓 Master of Computer Applications (MCA)**  
+*Yashwantrao Chavan Maharashtra Open University · Jun 2020 – Jun 2022*  
+- **Grade:** Distinction  
+- **Activities & Societies:** Sports, Volunteering  
+- **Key Projects/Focus Areas:**  
+    - **Image Processing & Segmentation**  
+    - **Information Technology Infrastructure & Cybersecurity**
 
 ---
 
